@@ -1,0 +1,40 @@
+.checkout-products {
+  border: 0.0625rem solid rgba(0, 0, 0, 0.693);
+  border-radius: 0.625rem;
+  margin-right: 1rem;
+}
+
+.checkout-shipping {
+  margin: 0rem;
+}
+
+.checkout-shipping > b {
+  color: green;
+}
+
+.checkout-shipping-text {
+  margin-bottom: 0rem;
+}
+
+.checkout-totals {
+  color: green;
+  margin: 0.625rem;
+  font-weight: 700;
+}
+
+.checkout-order-total {
+  font-weight: 700;
+  font-size: 16pt;
+}
+
+.checkout-button {
+  width: 100%;
+}
+
+.checkout-header {
+  margin-top: 0rem;
+}
+
+.checkout-input > div {
+  padding: 0rem;
+}

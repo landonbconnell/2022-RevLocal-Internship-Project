@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Roboto+Mono&display=swap');
+
+h1 {
+  padding-left: 1.875rem;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h3 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h4 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h3.product-title {
+  text-overflow: ellipsis ellipsis;
+  margin-top: 0rem;
+}
+
+h3.price {
+  color: green;
+  margin-bottom: 0.625rem;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
